@@ -1,0 +1,62 @@
+@charset "ISO-8859-1";
+
+.img {
+	background-image:
+		url("astronomy-exploration-free-wallpaper-2469122.jpg");
+	/*Starry Sky Over Mountains by Cliford Mervil from https://www.pexels.com/photo/starry-sky-over-mountains-2469122/*/
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center top;
+	background-size: 50% 100%;
+	background-color: #23415A;
+}
+
+.main {
+	max-width: 500px;
+	margin: auto;
+}
+
+h4 {
+	text-shadow: -1px -1px 0 #000, 1px -2px 0 #000, -1px 1px 0 #000, 1px 1px
+		0 #000;
+	color: #FFFFFF;
+}
+
+.main-mid {
+	max-width: 700px;
+	margin: auto;
+}
+
+.main-wide {
+	max-width: 850px;
+	margin: auto;
+}
+
+h1, h3, h6 {
+	text-shadow: 2px 2px 2px #000000;
+	color: #FFFFFF;
+	text-align: center;
+	text-shadow: -1px -1px 0 #000, 1px -2px 0 #000, -1px 1px 0 #000, 1px 1px
+		0 #000;
+}
+
+#white-text {
+	color: white;
+	text-shadow: -1px -1px 0 #000, 1px -2px 0 #000, -1px 1px 0 #000, 1px 1px
+		0 #000;
+}
+
+h2, .credit {
+	color: #C0C0C0;
+	font-family: 'lato';
+	font-weight: 1000;
+	letter-spacing: 2px;
+	font-size: 35px;
+	text-shadow: -1px -1px 0 #000, 1px -2px 0 #000, -1px 1px 0 #000, 1px 1px
+		0 #000;
+}
+
+input.imgbutton {
+	height: 18px;
+	width: 18px;
+}
